@@ -1,3 +1,6 @@
+support MULTI connections!!
+
+
 # tinyPortMapper (or tinyPortForwarder)
 A Lightweight High-Performance Port Mapping/Forwarding Utility using epoll, Supports both TCP and UDP 
 
